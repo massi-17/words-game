@@ -1,6 +1,6 @@
 # Words-game
 
-![Drumpad Screenshot](assets/words-game.png)
+![Words-game Screenshot](assets/words-game.png)
 
 ## Description
 
